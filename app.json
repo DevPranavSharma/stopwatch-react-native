@@ -1,0 +1,17 @@
+{
+  "name": "reactnativeproject",
+  "displayName": "reactnativeproject",
+  "expo": {
+    "name": "reactnativeproject",
+    "slug": "reactnativeproject",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
