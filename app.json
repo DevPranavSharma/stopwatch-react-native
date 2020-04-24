@@ -1,9 +1,9 @@
 {
-  "name": "reactnativeproject",
-  "displayName": "reactnativeproject",
+  "name": "stopwatchreactnative",
+  "displayName": "stopwatch",
   "expo": {
-    "name": "reactnativeproject",
-    "slug": "reactnativeproject",
+    "name": "stopwatchreactnative",
+    "slug": "stopwatchreactnative",
     "version": "1.0.0",
     "platforms": [
       "ios",
